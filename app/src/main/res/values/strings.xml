@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegisterPage2</string>
+    <string name="action_sign_in" />
+    <string name="prompt_password">\n</string>
+    <string name="prompt_email" />
+    <string name="action_sign_out">\n</string>
+</resources>
